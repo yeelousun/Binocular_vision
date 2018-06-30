@@ -1,6 +1,6 @@
 # Binocular_vision
-*Using grid image to construct point cloud and simple point cloud processing*
-
+*Use grid image to construct point cloud and simple point cloud processing*
+(*upgraded version*)
 ## Introduction  
 The program of master's thesis  
 [Paper links](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201401&filename=1014124607.nh&uid=WEEvREcwSlJHSldRa1FhdXNXa0hIUUVEME15TlBXc09aTFUwdXdZcEp4dz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDI0MDc2R3RmTXFKRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZlllUm1GeXpnVUw3S1ZGMjZHcks=)  
